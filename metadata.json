@@ -1,0 +1,6 @@
+{
+  "name": "BoosterWale.com - Mobile Signal Boosters & 4G/5G Telecom Solutions",
+  "description": "Premier mobile network boosters, 4G/5G signal amplifiers, in-building DAS repeaters, and certified telecom equipment installation across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
